@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/api/(.*)",  // Adjust this based on your API structure
+      "src": "/api/(.*)",  
       "dest": "/server.js"
     },
     {
